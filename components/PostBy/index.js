@@ -10,5 +10,5 @@ export default function PostBy({ author }) {
                 {author.name}
             </a>
         </div>
-    );
+    );  
 }

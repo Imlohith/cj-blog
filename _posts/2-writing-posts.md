@@ -7,7 +7,7 @@ excerpt:
 coverImage: "/assets/post/post.png"
 date: "Fri 14th Aug, 2020"
 author:
-    name: Ahmed Mudassir
+    name: Lohith - CJ
     twitter: "https://twitter.com/ahm3dx_"
     picture: ""
 ogImage:

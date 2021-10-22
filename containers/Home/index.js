@@ -27,7 +27,7 @@ export default function Home({ children }) {
                 setTheme={setTheme}
                 handleThemeToggle={handleThemeToggle}
             />
-            {children}
+              {children}
             <HomeFooter />
         </div>
     );
